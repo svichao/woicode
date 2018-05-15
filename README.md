@@ -1,4 +1,4 @@
-# vue-project
+# woicode
 
 > A Vue.js project
 
