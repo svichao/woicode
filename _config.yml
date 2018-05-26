@@ -8,12 +8,12 @@ subtitle: 一个前端的日常
 description: 
 keywords: 我爱code，前端日常，我爱编程，vue
 author: Svichao
-language:
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: www.woicode.com
+url: http://www.woicode.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -78,4 +78,4 @@ theme: maupassant-hexo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: ftpsync
