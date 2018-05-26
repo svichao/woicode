@@ -1,0 +1,41 @@
+---
+title: 关于跳槽这件小事
+---
+分分合合，总是在所难免，跳槽，亦是如此。
+离开相识一年多的team，纵有万分不舍，
+然而自己的路，还要继续走下去。
+希望小伙伴们越来越好，共勉。  
+
+<!-- ## Quick Start
+
+### Create a new post
+
+``` bash
+$ hexo new "My New Post"
+```
+
+More info: [Writing](https://hexo.io/docs/writing.html)
+
+### Run server
+
+``` bash
+$ hexo server
+```
+
+More info: [Server](https://hexo.io/docs/server.html)
+
+### Generate static files
+
+``` bash
+$ hexo generate
+```
+
+More info: [Generating](https://hexo.io/docs/generating.html)
+
+### Deploy to remote sites
+
+``` bash
+$ hexo deploy
+```
+
+More info: [Deployment](https://hexo.io/docs/deployment.html) -->
